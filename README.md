@@ -31,7 +31,7 @@
 
 | Area | Details |
 |---|---|
-| **AI Image Generation Platform** | Production SaaS Telegram bot with distributed GPU worker nodes over SignalR WebSockets, Redis pub/sub task pipeline, dynamic ComfyUI workflow builder, multi-provider payments (Stripe, YooKassa, Telegram Stars, TON), admin dashboard with revenue/churn/cohort/UTM analytics, subscription & credit system, Quartz jobs — full Docker Compose stack with Nginx/SSL. **C#/.NET 8, Redis, PostgreSQL, SignalR** |
+| **AI Image Generation Platform** | Distributed image generation service built around a Telegram bot — GPU worker nodes over SignalR WebSockets, Redis pub/sub task pipeline, dynamic ComfyUI workflow builder, multi-provider payments (Stripe, YooKassa, Telegram Stars, TON), admin dashboard with advanced analytics, subscription & credit system, Quartz jobs — full Docker Compose stack with Nginx/SSL. **C#/.NET 8, Redis, PostgreSQL, SignalR** |
 | **Kiwi Voice** | Voice interface for AI assistants — wake word, speaker recognition, streaming TTS, barge-in (Python) |
 | **RunPod Infra** | Custom Docker images for ComfyUI on serverless GPU |
 | **Blockchain Tools** | TON wallet integrations & trading bots in C# |
