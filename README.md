@@ -29,30 +29,13 @@
 
 ### 🚀 What I build
 
-#### 🎨 AI Image Generation Platform
-
-My main project — a production SaaS Telegram bot for AI image generation with a full distributed backend:
-
-- **Distributed GPU nodes** — worker nodes connect to the server via **SignalR WebSockets**, pick tasks from a queue, process them on GPU, and report results back in real-time. Nodes auto-reconnect and requeue interrupted tasks
-- **Redis pub/sub task pipeline** — multi-stage async processing: `create → enqueue → dispatch → process → complete/error`. Each stage is a separate queue worker, making the system resilient and observable
-- **Dynamic ComfyUI workflow builder** — server-side workflow composition with a builder pattern: injects images, masks, LoRA configs, and model parameters into ComfyUI API format on the fly
-- **Multi-provider payments** — Stripe, YooKassa, Telegram Stars (XTR), TON wallet — unified payment processing with webhook handlers and subscription management
-- **Admin dashboard** — advanced analytics: revenue by period, churn rate, cohort analysis, UTM attribution with full referral tree traversal (up to 10 levels), language segmentation, time-to-first-purchase stats, processing mode trends
-- **Subscription & credit system** — tiered plans, daily claims, credit-based usage tracking, giveaways
-- **Scheduled jobs** — Quartz-based health checks, cleanup tasks, payment processing
-- **Full Docker Compose stack** — API + WebApp + Admin Panel + Payload CMS website + PostgreSQL + Redis + MongoDB + Nginx with SSL
-
-> C# / .NET 8 / SignalR / Redis / PostgreSQL / Docker / Quartz / EF Core
-
-#### 🐦 Kiwi Voice
-
-Voice interface for AI assistants — wake word detection, speaker recognition, streaming TTS, real-time barge-in. Python.
-
-#### 🔗 Other projects
-
-- **RunPod Infra** — custom Docker images for ComfyUI on serverless GPU
-- **Blockchain tools** — TON wallet integrations & trading bots in C#
-- **Open Source** — contributions to [OpenClaw](https://github.com/openclaw/openclaw), ComfyUI ecosystem, TonSdk.NET
+| Area | Details |
+|---|---|
+| **AI Image Generation Platform** | Production SaaS Telegram bot with distributed GPU worker nodes over SignalR WebSockets, Redis pub/sub task pipeline, dynamic ComfyUI workflow builder, multi-provider payments (Stripe, YooKassa, Telegram Stars, TON), admin dashboard with revenue/churn/cohort/UTM analytics, subscription & credit system, Quartz jobs — full Docker Compose stack with Nginx/SSL. **C#/.NET 8, Redis, PostgreSQL, SignalR** |
+| **Kiwi Voice** | Voice interface for AI assistants — wake word, speaker recognition, streaming TTS, barge-in (Python) |
+| **RunPod Infra** | Custom Docker images for ComfyUI on serverless GPU |
+| **Blockchain Tools** | TON wallet integrations & trading bots in C# |
+| **Open Source** | Contributions to OpenClaw, ComfyUI ecosystem, TonSdk.NET |
 
 ### 📊 Stats
 
