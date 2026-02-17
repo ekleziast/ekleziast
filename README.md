@@ -32,7 +32,7 @@
 | Area | Details |
 |---|---|
 | **AI Image Generation Platform** | Distributed image generation service built around a Telegram bot — GPU worker nodes over SignalR WebSockets, Redis pub/sub task pipeline, dynamic ComfyUI workflow builder, multi-provider payments (Stripe, YooKassa, Telegram Stars, TON), admin dashboard with advanced analytics, subscription & credit system, Quartz jobs — full Docker Compose stack with Nginx/SSL. **C#/.NET, Redis, PostgreSQL, SignalR** |
-| **Kiwi Voice** | Voice interface for AI assistants — wake word, speaker recognition, streaming TTS, barge-in (Python) |
+| **[Kiwi Voice](https://github.com/ekleziast/kiwi-voice)** | Voice interface for AI assistants — wake word, speaker recognition, streaming TTS, barge-in (Python) |
 | **RunPod Infra** | Custom Docker images for ComfyUI on serverless GPU |
 | **Blockchain Tools** | TON off-chain tooling — real-time block scanner, wallet integrations, contributions to TonSdk.NET. **C#** |
 | **Open Source** | Contributions to OpenClaw, ComfyUI ecosystem, TonSdk.NET |
