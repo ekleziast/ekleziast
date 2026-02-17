@@ -16,7 +16,7 @@
 - 25 y.o. backend developer from Russia, currently based in Vietnam 🇻🇳
 - Building production Telegram bots, AI-powered services, and open-source tools
 - Contributing to [OpenClaw](https://github.com/openclaw/openclaw) — an open-source AI assistant platform
-- Arctic Code Vault Contributor 🏔️
+- Contributor to [TonSdk.NET](https://github.com/continuation-team/TonSdk.NET)
 
 ### 🔧 Tech Stack
 
