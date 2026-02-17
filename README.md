@@ -14,7 +14,7 @@
 ### 🧑‍💻 About me
 
 - 25 y.o. backend developer from Russia, currently based in Vietnam 🇻🇳
-- Building production Telegram bots, AI-powered services, and open-source tools
+- Backend for AI products — distributed GPU infra, real-time APIs, high-throughput systems
 - Contributing to [OpenClaw](https://github.com/openclaw/openclaw) — an open-source AI assistant platform
 - Automating everything that can be automated
 
