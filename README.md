@@ -40,8 +40,8 @@
 ### 📊 Stats
 
 <div align="center">
-  <img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
+  <img src="https://ekleziast.vercel.app/api?username=ekleziast&count_private=true&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://ekleziast.vercel.app/api/top-langs/?username=ekleziast&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ---
