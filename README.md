@@ -40,8 +40,8 @@
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github.com/ekleziast/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
-  <img src="https://github.com/ekleziast/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
+  <img src="https://github.com/ekleziast/ekleziast/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
+  <img src="https://github.com/ekleziast/ekleziast/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
 </div>
 
 ---
