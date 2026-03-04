@@ -22,9 +22,9 @@
 
 **Backend** — C#, .NET, ASP.NET Core, Entity Framework Core, SignalR, Redis, PostgreSQL  
 **AI/ML** — Stable Diffusion, ComfyUI, RunPod, Python  
-**Frontend** — TypeScript, React, Next.js, Payload CMS  
+**Frontend** — TypeScript, React, Next.js, shadcn/ui
 **Blockchain** — TON SDK, off-chain tooling, real-time block scanning
-**Infra** — Docker Compose, Nginx, GitHub Actions, Linux, CUDA  
+**Infra** — Docker Compose, Nginx, GitHub Actions, Jenkins, Linux, CUDA
 **Voice & AI Agents** — OpenClaw, Whisper, Piper TTS, ElevenLabs
 
 ### 🚀 What I build
@@ -40,8 +40,8 @@
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://ekleziast.vercel.app/api?username=ekleziast&count_private=true&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://ekleziast.vercel.app/api/top-langs/?username=ekleziast&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github.com/ekleziast/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
+  <img src="https://github.com/ekleziast/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
 </div>
 
 ---
