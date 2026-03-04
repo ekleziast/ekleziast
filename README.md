@@ -22,9 +22,9 @@
 
 **Backend** — C#, .NET, ASP.NET Core, Entity Framework Core, SignalR, Redis, PostgreSQL  
 **AI/ML** — Stable Diffusion, ComfyUI, RunPod, Python  
-**Frontend** — TypeScript, React, Next.js, shadcn/ui
-**Blockchain** — TON SDK, off-chain tooling, real-time block scanning
-**Infra** — Docker Compose, Nginx, GitHub Actions, Jenkins, Linux, CUDA
+**Frontend** — TypeScript, React, Next.js, shadcn/ui  
+**Blockchain** — TON SDK, off-chain tooling, real-time block scanning  
+**Infra** — Docker Compose, Nginx, GitHub Actions, Jenkins, Linux, CUDA  
 **Voice & AI Agents** — OpenClaw, Whisper, Piper TTS, ElevenLabs
 
 ### 🚀 What I build
