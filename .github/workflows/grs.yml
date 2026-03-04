@@ -25,13 +25,17 @@ jobs:
           pip install -r /tmp/github-stats/requirements.txt
 
       - name: Generate images
-        run: python /tmp/github-stats/generate_images.py
+        working-directory: /tmp/github-stats
+        run: python generate_images.py
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXCLUDED: ""
           EXCLUDED_LANGS: ""
           EXCLUDE_FORKED_REPOS: "true"
+
+      - name: Copy generated files
+        run: cp -r /tmp/github-stats/generated/ generated/
 
       - name: Commit and push
         run: |
