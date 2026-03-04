@@ -24,7 +24,7 @@
 **AI/ML** — Stable Diffusion, ComfyUI, RunPod, Python  
 **Frontend** — TypeScript, React, Next.js, shadcn/ui  
 **Blockchain** — TON SDK, off-chain tooling, real-time block scanning  
-**Infra** — Docker Compose, Nginx, GitHub Actions, Jenkins, Linux, CUDA  
+**Infra** — Docker Compose, Nginx, GitHub Actions, GitLab CI/CD, Jenkins, Linux, CUDA  
 **Voice & AI Agents** — OpenClaw, Whisper, Piper TTS, ElevenLabs
 
 ### 🚀 What I build
