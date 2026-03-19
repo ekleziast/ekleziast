@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Ramil 👋
+# Hey, curious? 👋
 
 **.NET Developer · AI Enthusiast · Building things that work**
 
